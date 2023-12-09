@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=E-sion&layout=compact&theme=gruvbox)
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=E-sion&repo=NEEDY-SLACK-Haruhi2&theme=gruvbox)
 

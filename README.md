@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=E-sion">
-</details>
+[GitHub账户信息统计](https://github-stats.ubrong.com/api?username=E-sion&show_icons=true&theme=gruvbox)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=E-sion&layout=compact&theme=gruvbox)
 
